@@ -2,7 +2,8 @@
 
 ### Day 1: December 30, 2017
 
-**Today's Progress**: Continued to struggle with the Fib challenge on fcc.
+**Today's Progress**: 
+Continued to struggle with the Fib challenge on fcc.
 
 **Thoughts**:
 Feeling so rusty.
@@ -13,9 +14,10 @@ Feeling so rusty.
 
 ### Day 2: December 31, 2017
 
-**Today's Progress**: Continued to struggle with the Fib challenge on fcc. Finally looked at the spoiler. Was on the wrong track with trying recursive.
+**Today's Progress**: 
+Continued to struggle with the Fib challenge on fcc. Finally looked at the spoiler. Was on the wrong track with trying recursive.
 
-**Thoughts** 
+**Thoughts**: 
 Was very frustrated. Also was a little rude in front of company logging in late just before midnight and after a few beers. Not the ideal state of mind.
 
 **Link(s) to work**
