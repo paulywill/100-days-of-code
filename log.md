@@ -68,7 +68,7 @@ function isPrime(number) {
 
 }
 
-console.log(isPrime(6));
+console.log(isPrime(1));
 console.log(isPrime(15485863));
 ```
 
@@ -78,3 +78,97 @@ More playing around with a working environment than actual coding. Not a bad iss
 **Link(s) to work**
 1. [Floobits](https://floobits.com/)
 2. [Prime result](https://codepen.io/codepatel/pen/vOqWBe?editors=0011)
+
+
+### Day 4: January 2, 2018
+
+**Today's Progress**:
+This morning I figured out how to finish setting up Atom environment.
+
+A little before lunch received news about a death in the family.... so, mind once again not operating at 100%.
+
+I did continue the fcc problem (working inside Atom). I found several examples to find prime numbers, however none of them explained the code until I came across an article that mentioned Sieve of Eratosthenes' algorithm.
+
+The wikipedia entry does an excellent job explain the solution and even providing Pseudocode.
+
+Example
+
+To find all the prime numbers less than or equal to 30, proceed as follows.
+
+First generate a list of integers from 2 to 30:
+
+ 2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+The first number in the list is 2; cross out every 2nd number in the list after 2 by counting up from 2 in increments of 2 (these will be all the multiples of 2 in the list):
+
+ 2  3  ~~4~~  5  ~~6~~  7  ~~8~~  9  ~~10~~ 11 ~~12~~ 13 ~~14~~ 15 ~~16~~ 17 ~~18~~ 19 ~~20~~ 21 ~~22~~ 23 ~~24~~ 25 ~~26~~ 27 ~~28~~ 29 ~~30~~
+
+The next number in the list after 2 is 3; cross out every 3rd number in the list after 3 by counting up from 3 in increments of 3 (these will be all the multiples of 3 in the list):
+
+ 2  3  ~~4~~  5  ~~6~~  7  ~~8~~  ~~9~~  ~~10~~ 11 ~~12~~ 13 ~~14~~ ~~15~~ ~~16~~ 17 ~~18~~ 19 ~~20~~ ~~21~~ ~~22~~ 23 ~~24~~ 25 ~~26~~ ~~27~~ ~~28~~ 29 ~~30~~
+
+The next number not yet crossed out in the list after 3 is 5; cross out every 5th number in the list after 5 by counting up from 5 in increments of 5 (i.e. all the multiples of 5):
+
+ 2  3  ~~4~~  5  ~~6~~  7  ~~8~~  ~~9~~  ~~10~~ 11 ~~12~~ 13 ~~14~~ ~~15~~ ~~16~~ 17 ~~18~~ 19 ~~20~~ ~~21~~ ~~22~~ 23 ~~24~~ ~~25~~ ~~26~~ ~~27~~ ~~28~~ 29 ~~30~~
+
+The next number not yet crossed out in the list after 5 is 7; the next step would be to cross out every 7th number in the list after 7, but they are all already crossed out at this point, as these numbers (14, 21, 28) are also multiples of smaller primes because 7 × 7 is greater than 30. The numbers not crossed out at this point in the list are all the prime numbers below 30:
+
+ 2  3     5     7           11    13          17    19          23                29
+
+
+```
+Input: an integer n > 1.
+
+ Let A be an array of Boolean values, indexed by integers 2 to n,
+ initially all set to true.
+
+ for i = 2, 3, 4, ..., not exceeding √n:
+   if A[i] is true:
+     for j = i2, i2+i, i2+2i, i2+3i, ..., not exceeding n:
+       A[j] := false.
+
+ Output: all i such that A[i] is true.
+```
+
+
+**Thoughts**:
+
+The family emergency through me off my challenge today. Ideally I wanted to finish the challenge today and be done with it, but life had other plans. Though I like that I'm now at the point in fcc where I have to learn what snippets are really doing. This is the first time I've learned about the Sieve of Eratosthenes' algorithm. It's pretty cool. Deep learning now rather than chewing out code.
+
+Tomorrow I hope to land the plane on this one.
+
+My Pseudocode:
+```
+function sumPrimes(num) {
+
+  //Error handling on num
+
+  //Check num is not a prime
+
+  Sieve of Eratosthenes
+
+  //For loop through to find all primes to num push into Array
+
+  for (loop){
+    Sieve of Eratosthenes
+    arr.push(primeNum)
+  }
+
+  //Reduce array to find the sum
+
+  return sum;
+}
+```
+
+
+**Link(s) to work**
+1. [Prime Number Explained](https://www.thepolyglotdeveloper.com/2015/04/determine-if-a-number-is-prime-using-javascript/)
+2. [Sieve of Eratosthenes' algorithm](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
+
+-------------------------------
+### Day xx: Month Day, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link(s) to work**
+-------------------------------
