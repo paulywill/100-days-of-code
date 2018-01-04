@@ -166,6 +166,25 @@ function sumPrimes(num) {
 2. [Sieve of Eratosthenes' algorithm](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
 
+### Day 5: January 3, 2018
+**Today's Progress**:
+Took a small break from the fcc's challenges and worked on investigating an issue on fcc's League for Good.
+
+Which lead to spending some time setting up lfg project on a c9 environment on my aws so I could do some work and testing on it at work.
+
+I did have to change the default port form 4000 to 8080 as a work around.
+
+I'm hoping there's a way to change it back to 4000 or find a way to ensure it will not be added to a future PR.
+
+**Thoughts**:
+I find the 100DaysOfCode challenging as I tend to switch between coding and setting up infrastructure to test code. As long as I'm working and learning on something everyday I still think it's a win.
+
+ˇ
+**Link(s) to work**
+
+1. [League-For-Good Issue 73] (https://github.com/freeCodeCamp/league-for-good/issues/73)
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
