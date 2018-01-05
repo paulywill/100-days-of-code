@@ -185,6 +185,28 @@ I find the 100DaysOfCode challenging as I tend to switch between coding and sett
 1. [League-For-Good Issue 73] (https://github.com/freeCodeCamp/league-for-good/issues/73)
 
 
+### Day 6: January 4, 2018
+1/4/2018, 8:51:21 PM
+
+**Today's Progress**:
+
+I continued with the fcc's sumPrimes challenge. I am currently experiencing a problem with input of 3.
+I suspect I have a logic error with the for loop.
+
+Also learned there's been a bit of lag with the console for Firefox and Chrome was not playing nicely either.
+Perhaps because I decided to do a movie recording of my mug and screen recoding of my work during the 60 minutes.
+
+**Thoughts**:
+
+I refuse to give up on this challenge!
+
+I feel like I'm really close to completing without having to look at the hints.
+
+Recording while I worked and using Pomotodo kept me very focused and on task this evening.
+
+
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
