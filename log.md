@@ -202,9 +202,7 @@ I refuse to give up on this challenge!
 
 I feel like I'm really close to completing without having to look at the hints.
 
-Recording while I worked and using Pomotodo kept me very focused and on task this evening.
-
-
+Recording with Quicktime (although may have affected computer's performance) while I worked and using Pomotodo kept me very focused and on task this evening.
 
 
 -------------------------------
