@@ -182,7 +182,7 @@ I find the 100DaysOfCode challenging as I tend to switch between coding and sett
 ˇ
 **Link(s) to work**
 
-1. [League-For-Good Issue 73] (https://github.com/freeCodeCamp/league-for-good/issues/73)
+1. [League-For-Good Issue 73](https://github.com/freeCodeCamp/league-for-good/issues/73)
 
 
 ### Day 6: January 4, 2018
@@ -206,6 +206,86 @@ Recording with Quicktime (although may have affected computer's performance) whi
 
 **Link(s)**
 1. [Pomotodo](https://pomotodo.com/)
+
+
+### Day 7: January 5, 2018
+**Today's Progress**:
+Finished the fcc sumPrime challenge.
+Started to initially figure out the next challenge, Smallest Common Multiples, by Googling the needed formulas.
+
+**Thoughts**:
+
+Glad the sumPrime challenge is finished. Ironically as I was nearing the end I found some tighter code within MDN docs:
+
+```
+function isPrime(element, index, array) {
+  var start = 2;
+  while (start <= Math.sqrt(element)) {
+    if (element % start++ < 1) {
+      return false;
+    }
+  }
+  return element > 1;
+}
+
+console.log([4, 6, 8, 12].find(isPrime)); // undefined, not found
+console.log([4, 5, 8, 12].find(isPrime)); // 5
+```
+
+I also found a bug in the fcc challenge as well. One of the test asks for the sum of of a prime:
+```
+sumPrimes(977) should return 73156.
+```
+I did ask this in the forum but I may have to raise the bug on Github.
+
+The next challenge was a tad confusing. I did end up on the hint page and just read the top that indicated that the challenge required a range if given two numbers.
+
+ie (1,5) = 1,2,3,4,5
+
+Again, this should be a little more clear on the challenge than subtly mentioning it.
+
+I have to use these formulas with all the numbers:
+
+//gcd(a, b) = gcd(a - b, b)
+//lcm(a, b) = a × b / gcd(a, b)
+
+
+Found a few examples of this, apparently called "Euclidean algorithm".
+
+
+```
+function euclideanAlgorithm(a, b) {
+    if(b === 0) {
+        return a;
+    }
+    const remainder = a % b;
+    return euclideanAlgorithm(b, remainder)
+}
+
+function gcdMultipleNumbers(...args) { //ES6 used here, change as appropriate
+  const gcd = args.reduce((memo, next) => {
+      return euclideanAlgorithm(memo, next)}
+  );
+
+  return gcd;
+}
+
+gcdMultipleNumbers(48,16,24,96) //8
+
+
+```
+
+
+
+
+
+**Link(s)**
+1. [MDN find example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+2. [LCM](https://www.math.nmsu.edu/~pmorandi/CourseMaterials/LCM)
+3. [GCD](https://www.math.nmsu.edu/~pmorandi/CourseMaterials/GCD.html)
+4. [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+
+
 
 -------------------------------
 ### Day xx: Month Day, 2018
