@@ -276,9 +276,6 @@ gcdMultipleNumbers(48,16,24,96) //8
 ```
 
 
-
-
-
 **Link(s)**
 1. [MDN find example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 2. [LCM](https://www.math.nmsu.edu/~pmorandi/CourseMaterials/LCM)
@@ -286,6 +283,19 @@ gcdMultipleNumbers(48,16,24,96) //8
 4. [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
 
+### Day 8: January 6, 2018
+**Today's Progress**:
+Started work on fcc's next challenge, smallestCommon. Finding solutions on Stackoverflow.com, very simple. Actually walking through the code and figuring out the what is happen... not so much.
+
+Working progress but now grasp an example I was walking through and a repeat lesson on ES6 ...args and => arrow functions. I suspect I will have to hammer some of these gems down through late examples and projects.
+
+**Thoughts**:
+When reading someone else's code I tend to skip over what I assume is error check without questioning, because that's based on my style. Not realizing that's the key part I'm trying to figure out.
+
+Trying to create the habit of going line by line.
+
+**Link(s)**
+1.[Great example by gwpmad](https://stackoverflow.com/questions/1231733/euclidean-greatest-common-divisor-for-more-than-two-numbers)
 
 -------------------------------
 ### Day xx: Month Day, 2018
