@@ -297,6 +297,19 @@ Trying to create the habit of going line by line.
 **Link(s)**
 1.[Great example by gwpmad](https://stackoverflow.com/questions/1231733/euclidean-greatest-common-divisor-for-more-than-two-numbers)
 
+
+### Day 9: January 7, 2018
+**Today's Progress**:
+Continued working on FCC's challenge smallestCommon.
+
+**Thoughts**:
+My working progress is trying to glue 3 functions together. I know I'm probably not going the easiest route, but I will have to double check that I'm referencing the correct formula.
+
+Probably run a few tests at lunchtime tomorrow. There's been a death in the family so this week will be tricky, but I will do my best to put my time in.
+
+Was working with in the same room as the wife with TV in the background, that counts right... as quality time... with the wife? Regardless I was a little more cavalier and unfocused than usual.
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
