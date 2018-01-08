@@ -310,6 +310,18 @@ Probably run a few tests at lunchtime tomorrow. There's been a death in the fami
 Was working with in the same room as the wife with TV in the background, that counts right... as quality time... with the wife? Regardless I was a little more cavalier and unfocused than usual.
 
 
+### Day 10: January 8, 2018
+**Today's Progress**:
+Continued FCC smallestCommon challenge. Struggled for an hour than decided to look at the spoiler.
+
+**Thoughts**:
+Again, I was very close to the solution but not elegant as the provided spoiler. This goes back to my days of math homework and accounting. I learn better when the solution is available at the back of the book or some software provided. I'm wired for immediate feedback. I don't mind f'n around on my first attempt, but if I can look at more beautiful code I'll always do that after struggling long enough.
+
+
+**Link(s)**
+1.[smallestCommon spoiler](https://forum.freecodecamp.org/t/freecodecamp-algorithm-challenge-guide-smallest-common-multiple/16075)
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
