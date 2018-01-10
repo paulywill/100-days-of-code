@@ -322,6 +322,17 @@ Again, I was very close to the solution but not elegant as the provided spoiler.
 1.[smallestCommon spoiler](https://forum.freecodecamp.org/t/freecodecamp-algorithm-challenge-guide-smallest-common-multiple/16075)
 
 
+### Day 11: January 9, 2018
+**Today's Progress**:
+Finished two fcc challenges :) ~ findElements; dropElements
+
+**Thoughts**:
+Both challenges were surprising easier than a few of the previous challenges. Earlier today was a family funeral so I'm actually surprised I was able to crank out 2 solutions after a very emotionally draining day.
+
+Lesson learned today, show up and do the time... will probably surprise yourself of the results.
+
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
