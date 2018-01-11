@@ -332,6 +332,40 @@ Both challenges were surprising easier than a few of the previous challenges. Ea
 Lesson learned today, show up and do the time... will probably surprise yourself of the results.
 
 
+### Day 12: January 10, 2018
+**Today's Progress**:
+Worked on FCC's steamrollArray challenge. Nested arrays are more difficult than I thought. Carrying on with the theme of the last few challenges I am attempting to call another function that uses reduce on the array if isArray built-in function is true. Trying to do this with a for loop does not seem to be working. Perhaps using a While loop.
+
+```
+function steamrollArray(arr) {
+// I'm a steamroller, baby
+  for (i = 0; i < arr.length; i++){  // ==> For loop not working for me <==
+    if (Array.isArray(arr[i]) ){
+      flattened(arr);
+    }
+  }
+  console.log("arr: " + arr);
+  return arr;
+}
+
+function flattened(arr){
+  return arr.reduce(
+      ( acc, cur ) => acc.concat(cur),
+      []
+    );
+}
+console.clear();
+steamrollArray([1, [2], [3, [[4]]]]);
+
+```
+
+
+**Thoughts**:
+Challenge is fun but makes for some late nights. Ideally I would like to finish off FCC full curriculum within the R1; but if I don't move on to something else I'm can see myself getting bored. Perhaps that's the whole point of the challenge...pushing through that impulse.
+
+
+**Link(s)**
+1. [Code examples](http://www.jstips.co/en/javascript/flattening-multidimensional-arrays-in-javascript/)
 
 -------------------------------
 ### Day xx: Month Day, 2018
