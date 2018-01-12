@@ -367,6 +367,40 @@ Challenge is fun but makes for some late nights. Ideally I would like to finish 
 **Link(s)**
 1. [Code examples](http://www.jstips.co/en/javascript/flattening-multidimensional-arrays-in-javascript/)
 
+
+
+### Day 13: January 11, 2018
+**Today's Progress**:
+Found a solution quickly on Stackoverflow, but trying to decode the why solution took up some time.
+
+
+```
+[0, 1, 2, 3, 4].reduce(
+  function (
+    accumulator,
+    currentValue,
+    currentIndex,
+    array
+  ) {
+    return accumulator + currentValue;
+  }
+);
+
+
+// test ? expression1 : expression2  
+
+var now = new Date();  
+var greeting = "Good" + ((now.getHours() > 17) ? " evening." : " day.");  
+
+```
+**Thoughts**:
+
+I certainly need more practice with callbacks and tracing.
+
+**Link(s)**:
+
+1. [Flatten Function](https://stackoverflow.com/questions/10865025/merge-flatten-an-array-of-arrays-in-javascript)
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
