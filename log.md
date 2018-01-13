@@ -401,6 +401,54 @@ I certainly need more practice with callbacks and tracing.
 
 1. [Flatten Function](https://stackoverflow.com/questions/10865025/merge-flatten-an-array-of-arrays-in-javascript)
 
+
+
+### Day 14: January 12, 2018
+**Today's Progress**:
+
+Completed another fcc challenge, binaryAgent.
+
+Found another snippet on Stackoverflow. It had some addition false parms, which I could not reference any value so I was able to take it out.
+
+Binary code => parseInt(string,2) => String.fromCharCode //ASCII translation
+
+The parseInt() function parses a string argument and returns an integer of the specified radix (the base in mathematical numeral systems).
+
+```
+function binaryAgent(str) {
+  var splitArr = str.split(' ');
+  var strResult = "";
+  for (i = 0; i < splitArr.length; i++){
+    var strDecoded = String.fromCharCode(parseInt(splitArr[i],2) );
+    strResult = strResult.concat(strDecoded);
+  }
+  return strResult;
+}
+
+console.clear();
+binaryAgent("01000001 01110010 01100101 01101110 00100111 01110100 00100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 00100000 01100110 01110101 01101110 00100001 00111111");
+
+```
+
+**Thoughts**:
+
+Working from Mom's, just before dinner. We had another funeral today (second one of the week :(( ).
+Able to stick with the challenge and working in between the chaos of life.
+Focus was again oddly sharp despite thinking I would not deliver. Just showing up and working on the problem with no expectation seems key to better results and output.
+
+1/13/2018, 12:53:46 AM
+
+Some late night coding at Ma's while watching Dirk Gentley. Almost have the next fcc challenge completed. Once again I'm stumbling to figure out Object Collection.
+
+
+
+**Link(s)**
+1. [stackoverflow snippet](https://stackoverflow.com/questions/21354235/converting-binary-to-text-using-javascript)
+
+The parseInt() function parses a string argument and returns an integer of the specified radix (the base in mathematical numeral systems).
+
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
