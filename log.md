@@ -448,6 +448,60 @@ Some late night coding at Ma's while watching Dirk Gentley. Almost have the next
 The parseInt() function parses a string argument and returns an integer of the specified radix (the base in mathematical numeral systems).
 
 
+### Day 15: January 13, 2018
+**Today's Progress**:
+
+Continued work on fcc challenge, truthCheck.
+
+In the middle of time while looking up something on Stackoverflow I ran into the developer annual survey and decided to take the time to do it.
+
+I thought I crack the fcc challenge. So very close but still missing how to iterate through a collection of objects.
+
+
+
+```
+if( value ) {
+}
+```
+will evaluate to true if value is not:
+
+null
+undefined
+NaN
+empty string ("")
+0
+false
+
+
+1/13/2018, 10:09:09 PM
+
+Last attempt and drive worked! :)
+
+```
+function truthCheck(collection, pre) {
+  // Is everyone being true?
+  for (var k in collection) {
+    console.log(  collection[k][pre]);
+    var preValue = collection[k][pre];
+    if ( !(pre in collection[k]) || (!preValue)   ){
+      return false;
+    }
+  }
+  return true;
+}
+console.clear();
+truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
+```
+
+**Thoughts**:
+
+Collection of object are frustrating, but found a solution on Stackoverflow.
+Instead of a for loop I was able to step through with:  for (var k in collection)
+
+**Link(s)**
+1. [Iterating for a collection](https://stackoverflow.com/questions/15282480/iterate-over-a-collection-of-objects-in-javascript-and-return-true-from-that-fun)
+
+
 
 -------------------------------
 ### Day xx: Month Day, 2018
