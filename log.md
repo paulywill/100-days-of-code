@@ -502,6 +502,37 @@ Instead of a for loop I was able to step through with:  for (var k in collection
 1. [Iterating for a collection](https://stackoverflow.com/questions/15282480/iterate-over-a-collection-of-objects-in-javascript-and-return-true-from-that-fun)
 
 
+### Day 16: January 14, 2018
+**Today's Progress**:
+
+Watch a YouYube video by Scott Hanselman, Scaling Yourself. Although not coding, it was totally worth it and a meta way to look at the week coming up.
+
+For the fcc challenge I worked on the addTogether function for about 45 minutes and then looked at the spoiler. Once again pretty close. I always prefer looking at the Advanced solution.
+
+
+```
+//jshint esversion: 6
+function addTogether() {
+  var args = Array.from(arguments);
+  return args.some(n => typeof n !== 'number') ?
+    undefined:
+    args.length > 1 ?
+      args.reduce((acc, n) => acc += n, 0):
+      (n) => typeof n === "number" ?
+        n + args[0]:
+        undefined;
+}
+```
+
+Going to spend what little time I have left hanging with the wifey. :)
+
+**Thoughts**:
+**Link(s)**
+1. [Scott Hanselman, Scaling Yourself](http://youtu.be/IWPgUn8tL8s?a)
+
+
+
+
 
 -------------------------------
 ### Day xx: Month Day, 2018
