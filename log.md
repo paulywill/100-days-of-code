@@ -531,8 +531,27 @@ Going to spend what little time I have left hanging with the wifey. :)
 1. [Scott Hanselman, Scaling Yourself](http://youtu.be/IWPgUn8tL8s?a)
 
 
+### Day 17: January 15, 2018
+1/15/2018, 10:06:28 PM
 
+**Today's Progress**:
+Walked through the advanced spoiler solution for addTogether. The nested ternary operator gave me pause.
 
+Started working on the next solution for fcc challenge telephoneCheck. Already found a template on Stackoverflow.
+
+**Thoughts**:
+
+Looking through the spoilers and checking Stackoverflow seems like cheating and cutting corners.
+
+However I'm reminded of a lesson I learned exactly 8 years ago. I was an avid skydiver and decided to take  a Parachute Rigging Course down at ParaLoft with Handsome David Dewolf in Elizabethtown, Pennsylvania.
+
+Some of the rough tough guys suggested we try closing our 25 supervised reserve rigs with might and muscle alone. A friend of mine that I made on the course that worked at Sunrise in Florida, manufacturer of Wings parachute containers. Although experienced to some degree he finished the required course load in a 1/3rd less time than everyone else. When I asked him how he was so fast, he showed me. Rather than might and muscle he reached over and grabbed the same tools that were sitting next to me and readily available and showed me how to close a parachute container with no effort at all. It seemed so easy that it actually felt like cheating. It took many years to full absorb what he taught me. Check the ego at the door and measure the results.
+
+Finding and utilizing the easy way will reduce the wear and tear on me.
+
+**Link(s)**
+1. [Ternary operator more than one condition](https://www.codecademy.com/en/forum_questions/50a735d192bf860b2000077c)
+2. [Stackoverflow examples](https://stackoverflow.com/questions/4338267/validate-phone-number-with-javascript)
 
 -------------------------------
 ### Day xx: Month Day, 2018
