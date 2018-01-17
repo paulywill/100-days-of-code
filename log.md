@@ -543,7 +543,7 @@ Started working on the next solution for fcc challenge telephoneCheck. Already f
 
 Looking through the spoilers and checking Stackoverflow seems like cheating and cutting corners.
 
-However I'm reminded of a lesson I learned exactly 8 years ago. I was an avid skydiver and decided to take  a Parachute Rigging Course down at ParaLoft with Handsome David Dewolf in Elizabethtown, Pennsylvania.
+However I'm reminded of a lesson I learned exactly 8 years ago. I was an avid skydiver and decided to take  a Parachute Rigging Course down at ParaLoft with Handsome David DeWolf in Elizabethtown, Pennsylvania.
 
 Some of the rough tough guys suggested we try closing our 25 supervised reserve rigs with might and muscle alone. A friend of mine that I made on the course that worked at Sunrise in Florida, manufacturer of Wings parachute containers. Although experienced to some degree he finished the required course load in a 1/3rd less time than everyone else. When I asked him how he was so fast, he showed me. Rather than might and muscle he reached over and grabbed the same tools that were sitting next to me and readily available and showed me how to close a parachute container with no effort at all. It seemed so easy that it actually felt like cheating. It took many years to full absorb what he taught me. Check the ego at the door and measure the results.
 
@@ -552,6 +552,23 @@ Finding and utilizing the easy way will reduce the wear and tear on me.
 **Link(s)**
 1. [Ternary operator more than one condition](https://www.codecademy.com/en/forum_questions/50a735d192bf860b2000077c)
 2. [Stackoverflow examples](https://stackoverflow.com/questions/4338267/validate-phone-number-with-javascript)
+
+
+### Day 18: January 16, 2018
+**Today's Progress**:
+Completed fcc challenge telephoneCheck.
+
+**Thoughts**:
+
+Found a great regex tester tool that gave me a way to list all of my test data and then play around until everything was passing. I think there may be an error with one of the tests. I submitted it to the forum for review.
+
+Long night after Toastmaster (7pm - 9'ishpm). Will have to schedule my coding hour during lunch on Tuesday from this point on.
+
+**Link(s)**
+1. [NANP explained](http://en.wikipedia.org/wiki/North_American_Numbering_Plan)
+2. [stackoverflow example 1](https://stackoverflow.com/questions/4338267/validate-phone-number-with-javascript)
+3. [stackoverflow example 2](https://stackoverflow.com/questions/45620551/understanding-regexp-for-area-code-phone)
+4. [regex tester](https://www.regextester.com/17)
 
 -------------------------------
 ### Day xx: Month Day, 2018
