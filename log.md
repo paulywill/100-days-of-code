@@ -570,6 +570,35 @@ Long night after Toastmaster (7pm - 9'ishpm). Will have to schedule my coding ho
 3. [stackoverflow example 2](https://stackoverflow.com/questions/45620551/understanding-regexp-for-area-code-phone)
 4. [regex tester](https://www.regextester.com/17)
 
+
+### Day 19: January 17, 2018
+**Today's Progress**:
+
+1/17/2018, 3:44:16 PM
+
+Started to do a few exercise and review some of the suggestions of the next fcc challenge, updateRecords.
+
+JSON seems pretty straight forward.
+
+Also looked at the actual issues for freecodecamp on Github, and started to look at how to contribute.
+This has led to a tiny rabbit hole updating my Mac's homebrew and Node.js - still going.
+
+**Thoughts**:
+
+The 100DaysOfCode challenge is putting some tension with my S.O. Usually I spend my hour on the couch while my wife and I watch some Netflix. She's mentioned she's not thrilled with my spending time on focus coding, rather than her.
+
+Thus I experimented with doing my hour while junior was napping (sick day today). He's up and about and running around as I type.
+
+This is truly a challenge of time management. How does divide up work, family, fitness, a 100Day challenge, and finally sleep within 24 hours?
+
+8 - work
+8 - sleep
+1 - 100DaysOfCode
+1 - fitness
+6(?) - family/misc
+
+**Link(s)**
+1. [contribution-guidelines](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md#contribution-guidelines)
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
