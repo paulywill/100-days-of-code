@@ -603,7 +603,7 @@ Ideal
 1. [contribution-guidelines](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md#contribution-guidelines)
 
 
-### Day 20: January Day, 2018
+### Day 20: January 18, 2018
 **Today's Progress**:
 Started to get traction on the updateRecords freeCodeCamp challenge.
 
@@ -613,6 +613,26 @@ Was VERY squirrelly tonight. I had a personal coaching session, and then creeped
 Was not a very focused session, but very enlightening.
 
 
+### Day 21: January 19, 2018
+**Today's Progress**:
+
+Continued work on updateRecords challenge.
+
+**Thoughts**:
+
+Not sure why I'm unable to make dot notation work, but the [] notation worked fine.
+
+Err... found the answer right in the instruction (ref: link 1 below).
+
+Very close to completing challenge but I went on a bit of a tangent with trying to match existing values. I'm thinking this is not necessary for this exercise as they've set up particular test to pass.
+
+However this lead me to the 2 interesting links below on equations for partial string matching we've become so accustomed for input forms.
+
+
+**Link(s)**
+1. [Explanation on bracket notation](https://www.freecodecamp.org/challenges/accessing-objects-properties-with-variables)
+2. [Compare String Match Likelihood](https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely)
+3. [Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
