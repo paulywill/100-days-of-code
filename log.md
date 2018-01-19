@@ -591,14 +591,28 @@ Thus I experimented with doing my hour while junior was napping (sick day today)
 
 This is truly a challenge of time management. How does divide up work, family, fitness, a 100Day challenge, and finally sleep within 24 hours?
 
+Ideal
+-----
 8 - work
 8 - sleep
 1 - 100DaysOfCode
 1 - fitness
-6(?) - family/misc
+6(?) - family/misc  
 
 **Link(s)**
 1. [contribution-guidelines](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md#contribution-guidelines)
+
+
+### Day 20: January Day, 2018
+**Today's Progress**:
+Started to get traction on the updateRecords freeCodeCamp challenge.
+
+**Thoughts**:
+Was VERY squirrelly tonight. I had a personal coaching session, and then creeped and VERY successful person from high school. Probably one of the top successful people ever to attend my highs school.
+
+Was not a very focused session, but very enlightening.
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
