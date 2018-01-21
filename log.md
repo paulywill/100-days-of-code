@@ -633,7 +633,27 @@ However this lead me to the 2 interesting links below on equations for partial s
 1. [Explanation on bracket notation](https://www.freecodecamp.org/challenges/accessing-objects-properties-with-variables)
 2. [Compare String Match Likelihood](https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely)
 3. [Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
+
+
+### Day 22: January 20, 2018
+**Today's Progress**:
+
+1/20/2018, 10:20:31 PM
+
+Finished updateRecords, while drinking brews and watching Netflix with bro-inlaw.
+
+**Thoughts**:
+
+Did not want to do challenge today. A tad hungover from BD party last night. But finished the challenge one test at a time.
+
+**Link(s)**
+1. [push value to array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+2. [adding element to JSON object](https://stackoverflow.com/questions/28527712/how-to-add-key-value-pair-in-the-json-object-already-declared)
 -------------------------------
+
+
+
+
 ### Day xx: Month Day, 2018
 **Today's Progress**:
 **Thoughts**:
