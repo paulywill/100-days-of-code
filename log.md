@@ -649,11 +649,31 @@ Did not want to do challenge today. A tad hungover from BD party last night. But
 **Link(s)**
 1. [push value to array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 2. [adding element to JSON object](https://stackoverflow.com/questions/28527712/how-to-add-key-value-pair-in-the-json-object-already-declared)
+
+
+### Day 23: January 21, 2018
+**Today's Progress**:
+Started work on Symmetric Difference FCC challenge.
+
+**Thoughts**:
+This appears to be another area of Algebra I'm not familiar with. There's some massive gaps I have... ie. never took calculus before and never stopped to learn that despite half ass efforts. Now there's areas of algebra that I don't know about either.
+
+May have to grab a book or take a class for some refresher math.
+
+
+**Link(s)**
+1. [Diff between algebra and calculus](http://www.differencebetween.net/science/difference-between-algebra-and-calculus/)
+2. [Symmetric Difference](https://www.youtube.com/watch?v=PxffSUQRkG4)
+
+
+### Day 24: January 22, 2018
+**Today's Progress**:
+Worked tonight with a buddy on a startup idea, including SWOT, and setting up a repo.
+
+**Thoughts**:
+This venture is exciting already giving me an idea of the work and progress working remotely in development.
+
 -------------------------------
-
-
-
-
 ### Day xx: Month Day, 2018
 **Today's Progress**:
 **Thoughts**:
