@@ -673,6 +673,17 @@ Worked tonight with a buddy on a startup idea, including SWOT, and setting up a 
 **Thoughts**:
 This venture is exciting already giving me an idea of the work and progress working remotely in development.
 
+
+### Day 25: January 23, 2018
+**Today's Progress**:
+Worked again on fcc challenge sym. Issue mastering .reduce function.
+
+**Thoughts**:
+This should be a relatively easy challenge in concept but I'm not see the simple solution.
+I think there's something to the effect of going through all the arrays and removing all the numbers with one or more matches.
+
+Long day was not really in the mood to code, but put my time in regardless.
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
