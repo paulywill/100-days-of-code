@@ -684,6 +684,30 @@ I think there's something to the effect of going through all the arrays and remo
 
 Long day was not really in the mood to code, but put my time in regardless.
 
+
+### Day 26: January 24, 2018
+
+1/24/2018, 11:45:46 PM
+**Today's Progress**:
+Work continues with sym fcc challenge. I feel I'm very close but stuck on the ternary condition.
+
+**Thoughts**:
+The challenge is keeping me engaged enough not to cheat this time. I'm see some progress in the console.log, however stumped why the ternary condition refuses to work.
+
+So confused that I actually posted a question on Stackoverflow. It's very rare that I actually post a question. But my unique example and married to my code made me keen on posting like a noob.
+
+The idea of asking for help online is something I have to perfect. I shy away from looking like a dumbass, but time to get over myself.
+
+The challenge is also wearing on my marriage.:S
+Wife is so not thrilled I'm only 1/4 of the challenge done and not going to bed at an ideal time of night.
+A random phone call put me behind schedule from my usual 9pm-10pm coding session.
+
+My path and purpose is to get to mastery.
+
+
+
+**Link(s)**
+1. [Stackoverflow question](https://stackoverflow.com/questions/48435789/slicing-doesnt-work-in-ternary-conditional)
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
