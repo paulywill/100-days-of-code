@@ -706,6 +706,13 @@ My path and purpose is to get to mastery.
 
 
 
+1/25/2018, 12:03:56 AM
+
+Received an answer already on Stackoverflow, and now I have a few more passing tests on sym. :)
+
+
+
+
 **Link(s)**
 1. [Stackoverflow question](https://stackoverflow.com/questions/48435789/slicing-doesnt-work-in-ternary-conditional)
 -------------------------------
