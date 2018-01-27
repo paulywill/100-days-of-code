@@ -715,6 +715,21 @@ Received an answer already on Stackoverflow, and now I have a few more passing t
 
 **Link(s)**
 1. [Stackoverflow question](https://stackoverflow.com/questions/48435789/slicing-doesnt-work-in-ternary-conditional)
+
+
+### Day 27: January 27, 2018
+**Today's Progress**:
+
+Finished setting up freeCodeCamp on localhost.
+
+**Thoughts**:
+
+Missed yesterday because I needed sleep more.
+Tonight is the same.
+Less code but rather more setup.
+Will log a decent hour tomorrow.
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
