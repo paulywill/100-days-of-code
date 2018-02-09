@@ -730,9 +730,29 @@ Less code but rather more setup.
 Will log a decent hour tomorrow.
 
 
+==============================================
+### Day 01: February 8, 2018
+**Today's Progress**:
+Starting over.
+
+Day 1 of 4 for Freekend Hackathon 2018~ ParaPOS
+
+**Thoughts**:
+I made it > 25% last #100100DaysOfCode challenge, then was derailed by a house project to redo my office (took approximately a week).
+
+I'm starting the challenge again with a free weekend (Freekend) Hackathon.
+
+After my family returns I require a more sustainable routine other than late night coding. It was putting a strain on my marriage.
+
+I am thinking a possible solution is to become an "SUPER" early riser. Wake up before or at 5am and get an hour of coding in OR at the very least 30 minutes of coding, then knock of the rest off at lunch time or in the evening.
+
+
+**Link(s)**
+1. [Freekend Hackathon](https://github.com/paulywill/freekend-hackathon-2018)
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
 **Thoughts**:
 **Link(s)**
+1. []()
 -------------------------------
