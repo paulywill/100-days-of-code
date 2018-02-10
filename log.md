@@ -749,6 +749,21 @@ I am thinking a possible solution is to become an "SUPER" early riser. Wake up b
 
 **Link(s)**
 1. [Freekend Hackathon](https://github.com/paulywill/freekend-hackathon-2018)
+
+
+### Day 02: February 9, 2018
+**Today's Progress**:
+
+Day 2 of Freekend Hackathon.
+Still going though the Getting Started Guide (again).
+
+**Thoughts**:
+
+Slow and steady.
+Moneyball playing is both nice company alone and a distraction.
+
+**Link(s)**
+1. [Day 2 vlog](https://youtu.be/K0EigxhpIug)
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
