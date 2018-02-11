@@ -764,6 +764,19 @@ Moneyball playing is both nice company alone and a distraction.
 
 **Link(s)**
 1. [Day 2 vlog](https://youtu.be/K0EigxhpIug)
+
+
+### Day 03: February 10-11, 2018
+**Today's Progress**:
+
+Pagination. Finished Getting Started Guide (mostly).
+
+**Thoughts**:
+
+Solid template to show user tomorrow (later this morning).
+
+**Link(s)**
+1. [YouTube Day 3](https://youtu.be/7jFQf9MBDMI )
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
