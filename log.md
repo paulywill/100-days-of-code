@@ -776,7 +776,25 @@ Pagination. Finished Getting Started Guide (mostly).
 Solid template to show user tomorrow (later this morning).
 
 **Link(s)**
-1. [YouTube Day 3](https://youtu.be/7jFQf9MBDMI )
+1. [YouTube Day 3](https://youtu.be/D6bBiFISQvw)
+
+
+### Day 04: February 11-12, 2018
+**Today's Progress**:
+
+User feedback; started the Rigs portion of the packing POS project.
+
+End of my Freekend Hackathon.
+
+**Thoughts**:
+I'm going to regret not going to bed earlier.
+
+2/12/2018, 2:26:20 AM
+
+**Link(s)**
+1. [Day 4 of 4](https://youtu.be/wm9Nc5-V4_g)
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
