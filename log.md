@@ -795,6 +795,28 @@ I'm going to regret not going to bed earlier.
 1. [Day 4 of 4](https://youtu.be/wm9Nc5-V4_g)
 
 
+### Day 05: February 13, 2018
+**Today's Progress**:
+
+Continued work on the Parapos from the Freekend Hackathon. Decide to make its own repo on Github.
+
+Currently trying to figure out how checkboxes work in Rails 5. Rigs status is not reflecting in the database.
+
+
+**Thoughts**:
+
+Rails is a pain the ass sometimes. Pissed off that when I search for information that I'm directed to a book that is priced well above $100 to access all the bells and whistles.
+
+I also setup a slick IRC in the iterm2, irssi to log into the Freenode #rubyonrails channel only to find little or no activity in the channel.
+
+Thinking perhaps it was something wrong with the client I logged into the #python channel and the activity is crazy.
+
+I'm determined to master RoR, but I am paying attention to how the communities are behaving. There seems more passionate people in the Python community. I know this is not a fair comparison as I should be saying "Ruby on Rails" vs "Django" and not just python the language.
+
+
+**Link(s)**
+1. [Parapos Github](https://github.com/paulywill/parapos)
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
