@@ -817,6 +817,30 @@ I'm determined to master RoR, but I am paying attention to how the communities a
 **Link(s)**
 1. [Parapos Github](https://github.com/paulywill/parapos)
 
+
+### Day 06-07: February 14-15, 2018
+**Today's Progress**:
+
+Still working on ParaPOS.
+
+Did a bit of research and reading on V-Day during the day on using Chef and hosting a RoR on Linode.
+
+Think I found some leads when I'm at that stage.
+
+
+Tonight (Feb.15) worked on the Rigs link on the Packjob index screen. I thought something was getting truncated... not the case.
+
+Now trying to resolve drop-down boxes again.
+
+
+**Thoughts**:
+
+Very tired.
+
+
+**Link(s)**
+1. [Chef and Linode](http://www.talkingquickly.co.uk/2013/09/using-chef-to-provision-a-rails-and-postgres-server/)
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
