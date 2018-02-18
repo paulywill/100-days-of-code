@@ -841,6 +841,21 @@ Very tired.
 **Link(s)**
 1. [Chef and Linode](http://www.talkingquickly.co.uk/2013/09/using-chef-to-provision-a-rails-and-postgres-server/)
 
+
+### Day 08-09: Month Day, 2018
+**Today's Progress**:
+
+Yesterday I resolved the dropdown, but regressed on the index showing the rigs properly.
+
+Today I added a reference (a db join) between packjobs and rigs. Although was was getting the links to work before... I think there's some redundancy going on.
+
+
+**Thoughts**:
+Sometimes frustrating running into errors and mad searches on Stackoverflow. However I'm starting to understand the error messages more how to troubleshoot a little better.
+
+
+**Link(s)**
+1. [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
