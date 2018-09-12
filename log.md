@@ -857,6 +857,31 @@ Sometimes frustrating running into errors and mad searches on Stackoverflow. How
 **Link(s)**
 1. [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
 -------------------------------
+### Day 01-04: September 12, 2018
+**Today's Progress**:
+
+Finished all the new lessons of the first certification for FCC's "Responsive Web Design Certification".
+
+I never did take the time to do nitty gritty studying of CSS front-end, so I was thoroughly impressed with the lessons. I still have to do the few projects and the FCC's TDD CDN (quick a few acronyms there) make the process much more fun and interactive.
+
+
+As well, I've jumped back into helping with some issues for the "[League for Good](https://github.com/freeCodeCamp/league-for-good)" project. In particular cleaning up some es-lint errors that my Atom IDE was picking up (easy to fix, but tedious help).
+
+
+**Thoughts**:
+
+I have a AWS test on the 28th this month. Part of my coding is getting into the mind set, but also a "slight" procrastination from some of the studying. Coding is much more enjoyable.
+
+Using [Pomotodo](http://pomotodo.com) is helpful for knocking out my coding time. Working from home also helps with sticking to this challenge. More than anything, since this another attempt at 100DaysOfCode, the major lesson I learned is not "always" doing my coding during what should be "quality time" with my wonderful and patient wife.
+
+I can do it at lunchtime or between my Pomotodo breaks from work.
+
+In addition since I've been applying for more jobs, I've learned from some very polite rejections that I have to go from *Good* to _**GREAT**_. 100DaysOfCode can help me get there.  
+
+**Link(s)**
+1. [freeCodeCamp's Testing Suite](https://github.com/freeCodeCamp/testable-projects-fcc)
+
+-------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
 **Thoughts**:
