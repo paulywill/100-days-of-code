@@ -881,6 +881,23 @@ In addition since I've been applying for more jobs, I've learned from some very 
 **Link(s)**
 1. [freeCodeCamp's Testing Suite](https://github.com/freeCodeCamp/testable-projects-fcc)
 
+
+
+### Day 05-06: Month Day, 2018
+**Today's Progress**:
+
+Yesterday was doing more AWS studying, covering DynamoDB. Yikes, much to review!!!
+
+Today tackled some more FCC project, "[Survey Form](https://codepen.io/paulywill/pen/PdepxV)". Very much work in progress, but all the TDD tests are passing.
+
+
+**Thoughts**:
+
+Just listened to the podcast on [100DaysOfCode](https://www.freecodecamp.org/news/quincylarson/100-days-of-code-creator-alexander-kallaway--bkuL0lP20). Very impressed! Did read several of the books mentioned, but would love to re-read them again. Some are new mentions I've never heard of and actually just reached out to Alexander if there was a list, as I wasn't able to find good show notes.
+
+Have to get ready for a wedding now.
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
