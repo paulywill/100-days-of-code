@@ -883,7 +883,7 @@ In addition since I've been applying for more jobs, I've learned from some very 
 
 
 
-### Day 05-06: Month Day, 2018
+### Day 05-06: September 14, 2018
 **Today's Progress**:
 
 Yesterday was doing more AWS studying, covering DynamoDB. Yikes, much to review!!!
@@ -896,6 +896,19 @@ Today tackled some more FCC project, "[Survey Form](https://codepen.io/paulywill
 Just listened to the podcast on [100DaysOfCode](https://www.freecodecamp.org/news/quincylarson/100-days-of-code-creator-alexander-kallaway--bkuL0lP20). Very impressed! Did read several of the books mentioned, but would love to re-read them again. Some are new mentions I've never heard of and actually just reached out to Alexander if there was a list, as I wasn't able to find good show notes.
 
 Have to get ready for a wedding now.
+
+
+
+
+### Day 07: September 15, 2018
+**Today's Progress**:
+
+More AWS studying. Officially finished cloudguru's Udemy AWS Developer Associate 2018 course.
+
+**Thoughts**:
+
+Still so many gaps and nitty gritty to cover.
+Would like to do some more studying and coding tonight when junior is put to bed.
 
 
 -------------------------------
