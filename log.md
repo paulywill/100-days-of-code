@@ -911,6 +911,60 @@ Still so many gaps and nitty gritty to cover.
 Would like to do some more studying and coding tonight when junior is put to bed.
 
 
+
+### Day 08: September 16, 2018
+**Today's Progress**:
+
+Even more AWS studying. Finished another AWS test, 64%.
+
+**Thoughts**:
+
+I'm fucked if I don't study even more!
+
+**Link(s)**
+1. [AWS Practice Tests](https://www.udemy.com/aws-certified-developer-associate-real-tests-o)
+
+
+
+### Day 09: September 17, 2018
+**Today's Progress**:
+
+AWS studying, ElastiCache.
+
+Upon reviewing my practice test yesterday one of the questions I flunked or totally gapped was ElastiCache.
+
+So tonight I dedicated the entire night learning and doing some AWS Getting Started lab on ElastiCache Redis cluster.
+
+
+**Thoughts**:
+
+As always the mild coding and actual labs and working with AWS is much better than just reading.
+
+I know in my heart doing this AWS studying under the #100daysofcode challenge is forcing me to put my much needed studying time in.
+
+Whao... and where the hell have I been to not know about TCL/TK?
+
+```
+Tcl runs the operator interface of a Shell Oil drilling rig, runs the NBC network control system 24x7, has been used to program the Hubble Space Telescope and prototype the Mars Pathfinder, is hiding in every Tivo box and many Oracle products. Don't forget companies like Pixar, Motorola, IBM, Sybase, Nortel, Raytheon...
+```
+
+I had to 'sudo yum install tcl' to run the 'make test' for the source for redis on the EC2 instance.
+
+Reading about what TCL/TK has been used for is bonkers!
+
+AND... watching the tests pass for 'make test' is somehow old school linux startup sexy for me. :S
+
+\o/
+ |
+ ^
+
+**Link(s)**
+1. [AWS Redis ElastiCache Getting Started](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.html)
+2. [TCL/TK Audience](https://www.tcl.tk/about/audience.html)
+
+
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
