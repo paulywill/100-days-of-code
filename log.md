@@ -965,6 +965,21 @@ AND... watching the tests pass for 'make test' is somehow old school linux start
 
 
 
+### Day 10: September 18, 2018
+**Today's Progress**:
+
+Pretty zonked from fixing mainframe issue all day for work.
+
+Did some code review for League-for-Good, after learning about fetching someone else's remote branch.
+
+
+**Thoughts**:
+
+Sometimes in an effort to get things working we gloss over the details. It is only when something refuses to work do we address the details.  -me
+
+
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
