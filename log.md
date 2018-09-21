@@ -980,6 +980,37 @@ Sometimes in an effort to get things working we gloss over the details. It is on
 
 
 
+### Day 11-12: September 19-20, 2018
+**Today's Progress**:
+
+More and more AWS studying.
+
+Found a great list of questions to review, even gave props to the author yesterday on Twitter.
+
+In addition, yesterday, I connected with the local coders and going to check out a weekend hackathon for browser extensions creation for Chrome at my old college. :)
+
+I did throw my hat in the ring as well for a volunteer job with www.canadalearningcode.ca, for the Barrie chapter.
+
+There's a thriving community in my very own city I'm not even taking advantage of.
+
+
+
+
+**Thoughts**:
+
+A HUGE knowledge gap is all the APIs and error messages. A habit from my work is not committing much to memory and creating a library of documentation to looks up everything.
+
+Seems there's no way around this, I need to commit to memory some of the functions and errors or at least see if there's a pattern.
+
+I am starting to feel the fire under my ass, I have officially reached the 7 days until my scheduled exam.
+
+
+**Link(s)**
+1. [Study List - 55 THINGS YOU SHOULD KNOW FOR THE AWS CERTIFIED DEVELOPER ASSOCIATE EXAM](https://www.cozero.com.au/news/2018/55-tips-for-aws-developer-associate-exam.html)
+2. [canada learning code](www.canadalearningcode.ca)
+
+
+
 -------------------------------
 ### Day xx: Month Day, 2018
 **Today's Progress**:
