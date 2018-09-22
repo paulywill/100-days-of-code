@@ -994,8 +994,6 @@ I did throw my hat in the ring as well for a volunteer job with www.canadalearni
 There's a thriving community in my very own city I'm not even taking advantage of.
 
 
-
-
 **Thoughts**:
 
 A HUGE knowledge gap is all the APIs and error messages. A habit from my work is not committing much to memory and creating a library of documentation to looks up everything.
@@ -1008,6 +1006,26 @@ I am starting to feel the fire under my ass, I have officially reached the 7 day
 **Link(s)**
 1. [Study List - 55 THINGS YOU SHOULD KNOW FOR THE AWS CERTIFIED DEVELOPER ASSOCIATE EXAM](https://www.cozero.com.au/news/2018/55-tips-for-aws-developer-associate-exam.html)
 2. [canada learning code](www.canadalearningcode.ca)
+
+
+
+### Day 13-14: September 21-22, 2018
+**Yesterday's Progress**:
+
+Started to finally read up the FAQ for DynamoDB and started to learn Global Secondary Indexes more. Still have to dive into what Local Indexes are and some other nitty gritty.
+
+
+**Today's Progress**:
+
+Full nerdery day! :)
+
+Went to the browser extension workshop today. Some advance people and some beginners. Not baad overall... I did learn a few things.
+
+**Thoughts**:
+
+I was getting annoyed at the workshop when people I didn't know, the "mentors", were sort of lurking over my shoulder watching me code. I was so not use to that and something I'd probably have to get over if I were to pari program. I actually have no issue in someone is sitting next to me we're working together... but "shoulder readers" set off my spidey sense big time.
+
+It would be neat to have a program that takes a picture of anyone reading your screen over your shoulder and do facial recognition and social media search in real-time in-front of them. :P
 
 
 
