@@ -1028,6 +1028,21 @@ I was getting annoyed at the workshop when people I didn't know, the "mentors", 
 It would be neat to have a program that takes a picture of anyone reading your screen over your shoulder and do facial recognition and social media search in real-time in-front of them. :P
 
 
+### Day 15: September 23, 2018
+**Today's Progress**:
+
+AWS studying continues... and probably will be all week.
+Started to create a view online flash cards on Quizlet; more FAQ reading on DynamoDB; and another practice exam with a higher mark.
+
+**Thoughts**:
+
+Absolutely zonked today. Was up late last night (3am'ish) doing some parachute rigging for a friend. Naturally our toddler decided not to sleep and the wife... we were all grumpy today and made studying a tad challenging.
+
+Onward!
+
+**Link(s)**
+1. [Quizlet - Flash cards](https://quizlet.com/)
+2. [Udemy AWS CDA Practice Tests](https://www.udemy.com/aws-certified-developer-associate-real-tests-o/)
 
 -------------------------------
 ### Day xx: Month Day, 2018
