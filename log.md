@@ -1044,7 +1044,21 @@ Onward!
 1. [Quizlet - Flash cards](https://quizlet.com/)
 2. [Udemy AWS CDA Practice Tests](https://www.udemy.com/aws-certified-developer-associate-real-tests-o/)
 
+
+### Day 16: September 24, 2018
+**Today's Progress**:
+
+More AWS studying. Everything is slow at work because a tornado hit Ottawa over the weekend. :/
+
+**Thoughts**:
+
+I'm slowly cramming more cloud computing concepts into my grey matter. Nitty gritty (ie API names and error codes) will be a last minute binge.
+
+
 -------------------------------
+
+
+
 ### Day xx: Month Day, 2018
 **Today's Progress**:
 **Thoughts**:
