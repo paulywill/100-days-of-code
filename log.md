@@ -1055,6 +1055,16 @@ More AWS studying. Everything is slow at work because a tornado hit Ottawa over 
 I'm slowly cramming more cloud computing concepts into my grey matter. Nitty gritty (ie API names and error codes) will be a last minute binge.
 
 
+
+### Day 17: September 25, 2018
+**Today's Progress**:
+
+Guess what? Yup, more AWS studying.
+
+**Thoughts**:
+
+Making some slow but consistent progress reviewing practice tests and the related FAQS and other miscellaneous.
+
 -------------------------------
 
 
