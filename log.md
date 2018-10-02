@@ -1065,6 +1065,40 @@ Guess what? Yup, more AWS studying.
 
 Making some slow but consistent progress reviewing practice tests and the related FAQS and other miscellaneous.
 
+
+### Day 18-20: September 28, 2018
+**Today's Progress**:
+
+Passed the AWS Developer Associate test!
+
+**Thoughts**:
+Taking the weekend off to recover.
+
+**Link(s)**
+1. [AWS Certified Developer - Associate - License 5ZW44XL2KJVEQ7CJ](https://aw.certmetrics.com/amazon/public/verification.aspx)
+
+
+
+### Day 21: October 1, 2018
+**Today's Progress**:
+
+Started the TDD, "Obey the Goat", book again in preparation for PyCon Canada 2018 in November.
+
+**Thoughts**:
+
+My evil plan B to pivot in my career is nicely underway.
+
+AWS certification -> check.
+Python mastery -> in progress.
+
+
+**Link(s)**
+1. [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://amzn.to/2OYjR0F)
+2. [PyCon Canada](https://2018.pycon.ca/)
+
+
+
+
 -------------------------------
 
 
