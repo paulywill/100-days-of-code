@@ -1098,6 +1098,20 @@ Python mastery -> in progress.
 
 
 
+### Day 22: October 2, 2018
+**Today's Progress**:
+
+Once again tackling TDD book, on chapter 4.
+Love [this cartoon](http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html) they cite.
+
+**Thoughts**:
+
+Day job is becoming a toxic battle rather than a Meritocracy and one of required technical aptitude.
+
+Life is becoming shorter for such a place.
+
+
+
 
 -------------------------------
 
