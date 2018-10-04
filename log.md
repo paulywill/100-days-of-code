@@ -1112,10 +1112,16 @@ Life is becoming shorter for such a place.
 
 
 
+### Day 23: October 3, 2018
+**Today's Progress**:
+
+Sick day. More TDD book. Meh.
+
+
+
+
 
 -------------------------------
-
-
 
 ### Day xx: Month Day, 2018
 **Today's Progress**:
