@@ -1119,6 +1119,16 @@ Sick day. More TDD book. Meh.
 
 
 
+### Day 24: October 4, 2018
+**Today's Progress**:
+
+TDD book, finished chapter 4.
+
+**Thoughts**:
+
+This with be what I will be doing for the rest of the month... hell or high water.
+
+
 
 
 -------------------------------
