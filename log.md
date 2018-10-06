@@ -1130,6 +1130,17 @@ This with be what I will be doing for the rest of the month... hell or high wate
 
 
 
+### Day 25: October 5, 2018
+**Today's Progress**:
+
+Chapter 5 of the TDD book. Looked into and added other books mentioned on my to-do list.
+
+**Thoughts**:
+
+More demotivating fighting with management at the day job as a Systems Programmer for Mainframes for the Government of Canada.
+
+On the other end of the spectrum I'm more than happy to volunteer my free time to helping FCC, and Quincy Larson, with open source initiatives.
+
 
 -------------------------------
 
