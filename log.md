@@ -1142,6 +1142,21 @@ More demotivating fighting with management at the day job as a Systems Programme
 On the other end of the spectrum I'm more than happy to volunteer my free time to helping FCC, and Quincy Larson, with open source initiatives.
 
 
+### Day 26-28: October 6-8, 2018
+**Today's Progress**:
+
+Saturday, spent some time watching a video that's been sitting in my inbox for some time now, on [Dev Tools in Chrome](https://www.youtube.com/watch?v=wz1Sy5C039M).
+
+Sunday, spent the afternoon getting pylint and VScode setup nicely. I think I'm now smitten with VScode compare to Atom.
+
+Thanksgiving Monday, had an amazing video call with the man himself behind FCC, Quincy Larson. Walked me through the QA workflow for the FCC guide repo for incoming PR they needed help with. I spend a few hours tonight trying my best to make a dent. 
+
+
+**Thoughts**:
+
+Was very impressed with how easy it was to talk to Quincy and learn via Google Hangout. Cannot wait to contribute and help even more in the project.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
