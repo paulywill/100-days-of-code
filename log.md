@@ -1157,6 +1157,19 @@ Thanksgiving Monday, had an amazing video call with the man himself behind FCC, 
 Was very impressed with how easy it was to talk to Quincy and learn via Google Hangout. Cannot wait to contribute and help even more in the project.
 
 
+### Day 29-31: October 9-11, 2018
+**Today's Progress**:
+
+For the past two days been focusing on FCC QA'ing with PRs for the [guide](https://github.com/freeCodeCamp/guide). Quincy Larson is going to archive it in the VERY near future for a future Intenational version. Very exciting.
+
+Going to continue with my TDD Obey Goat between my [pomotodos](https://pomotodo.com/app/).
+
+
+**Thoughts**:
+
+Was on-site at work. Meh. Don't know if I'm any longer built for office life compared to WFH. The majority of the day is burnt trying to setup a proper workstation and workflow.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
