@@ -1170,6 +1170,25 @@ Going to continue with my TDD Obey Goat between my [pomotodos](https://pomotodo.
 Was on-site at work. Meh. Don't know if I'm any longer built for office life compared to WFH. The majority of the day is burnt trying to setup a proper workstation and workflow.
 
 
+### Day 32-33: October 12-13, 2018
+**Today's Progress**:
+
+Yesterday I spent some time prettier up my FCC survey project. Although the objective is rather easy it took some time to dissect the CSS from the example and make it work for my own.
+
+Then I'm thinking of adding some extra CSS generated graphics in the background and borders.
+
+Tonight I spent about an hour closing some more QA for FCC's guide. 
+
+**Thoughts**:
+
+I really want to focus more on coding for the rest of the month. I count all nerdery (ie learning, doing OSS work, setting up my IDE) as part of the challenge... but I'd really like to make more things and code more.
+
+**Link(s)**
+1. [Survey Project](https://codepen.io/paulywill/pen/PdepxV?editors=1000)
+2. [Biohazard Graphic Example](https://codepen.io/gutsgaurav/details/GqaGQV#forks)
+3. [FCC's New Guide PRs](https://github.com/freeCodeCamp/freeCodeCamp/pulls)
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
