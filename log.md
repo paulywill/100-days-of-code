@@ -1189,6 +1189,13 @@ I really want to focus more on coding for the rest of the month. I count all ner
 3. [FCC's New Guide PRs](https://github.com/freeCodeCamp/freeCodeCamp/pulls)
 
 
+### Day 34: October 14, 2018
+**Today's Progress**:
+
+TDD Goat book continues.
+Decided to submit Survey project with fancy animation for now.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
