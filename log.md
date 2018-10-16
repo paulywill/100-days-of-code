@@ -1208,6 +1208,15 @@ The TDD book is little a little frustrating as it tends to quickly go off the ra
 The result? I get to the same place, but went a different route than the author intended. I suppose I learn more from my "Choose Your Own Adventure" path.
 
 
+### Day 36: October 16, 2018
+**Today's Progress**:
+
+TDD chapter 5 continues at the Barrie Public Library.
+
+**Thoughts**:
+
+Tired. Little scattered today with productivity and focus.
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
