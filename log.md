@@ -1196,6 +1196,18 @@ TDD Goat book continues.
 Decided to submit Survey project with fancy animation for now.
 
 
+### Day 35: October 15, 2018
+**Today's Progress**:
+
+More TDD book. Did not get around to FCC PRs b/c of day job. Maybe tomorrow.
+
+**Thoughts**:
+
+The TDD book is little a little frustrating as it tends to quickly go off the rails for me. As life normally does. ie I forced the migrate command earlier than indicated in the book b/c I believe I was missing a def method_name.
+
+The result? I get to the same place, but went a different route than the author intended. I suppose I learn more from my "Choose Your Own Adventure" path.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
