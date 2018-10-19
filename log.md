@@ -1217,6 +1217,24 @@ TDD chapter 5 continues at the Barrie Public Library.
 
 Tired. Little scattered today with productivity and focus.
 
+
+### Day 37-38: October 17-18, 2018
+**Today's Progress**:
+
+Yesterday, as they legalized marijuana our Internet in Ontario crashed for several hours. No cause and effect I'm sure.
+
+As result I did a very tiny bit of TDD goat book offline. This was just before the family and I went to The Wiggles Show. :P 
+
+Today I put the wheels in motion for a tiny React project among some others that are interested in doing some online remote programming. So far... React is installed on Heroku.
+
+
+**Thoughts**:
+People are really keen to help with OSS. Love it!
+
+
+**Link(s)**
+1. [React Project - Seinfeld Strat App](https://github.com/paulywill/seinfeld-strat-app)
+2. [Heroku: Seinfeld-Strat-App](https://seinfeld-strat-app.herokuapp.com/)
 -------------------------------
 
 ### Day xx: Month Day, 2018
