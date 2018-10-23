@@ -1235,6 +1235,29 @@ People are really keen to help with OSS. Love it!
 **Link(s)**
 1. [React Project - Seinfeld Strat App](https://github.com/paulywill/seinfeld-strat-app)
 2. [Heroku: Seinfeld-Strat-App](https://seinfeld-strat-app.herokuapp.com/)
+
+
+### Day 39-40: October 21-22, 2018
+**Progress**:
+
+Saturday will not count towards the challenge as the day was devoted to yardwork and driving my wife to her first bar gig with her band. :)
+
+Sunday I was feeling very green but managed to complete a few PRs for myself for the Hacktoberfest, in particular when I was going through SASS curriculum and notice some gaps in explainations and solutions.
+
+Whether I receive a t-shirt at this point would be gravy.
+
+Tonight, I secured the final PR for the free t-shirt, and completed the SASS section. I feel I slipped on my intention to finish the TDD Goat book with this additional Seinfeld-Strat-App, but .. meh. I'm having fun and learning regardless.
+
+I DID totally f*ck up tonight though. While trying to quickly resolve and clean up my S3 files I accidentally, without reading carefully, a provision unit which apparrently billed me $100 USD! For retrieving in a region I have little or no data. Ahhhh AWS, I bow to you once again.
+
+
+**Thoughts**:
+
+AWS is costing me so much for my carelessness.
+
+**Link(s)**
+1. [Hacktoberfest Stats](https://hacktoberfest.digitalocean.com/stats/paulywill)
+2. [AWS Expensive Lesson - Provisioned expedited retrieval](https://aws.amazon.com/glacier/pricing/)
 -------------------------------
 
 ### Day xx: Month Day, 2018
