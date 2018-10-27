@@ -1237,7 +1237,7 @@ People are really keen to help with OSS. Love it!
 2. [Heroku: Seinfeld-Strat-App](https://seinfeld-strat-app.herokuapp.com/)
 
 
-### Day 39-40: October 21-22, 2018
+### Day 39-40: October 19-22, 2018
 **Progress**:
 
 Saturday will not count towards the challenge as the day was devoted to yardwork and driving my wife to her first bar gig with her band. :)
@@ -1258,6 +1258,26 @@ AWS is costing me so much for my carelessness.
 **Link(s)**
 1. [Hacktoberfest Stats](https://hacktoberfest.digitalocean.com/stats/paulywill)
 2. [AWS Expensive Lesson - Provisioned expedited retrieval](https://aws.amazon.com/glacier/pricing/)
+
+
+### Day 41-43: October 23-26, 2018
+**Progress**:
+
+Starting to slip on the challenge.
+
+Lots of solid hours this week working on PRs for FCC and learning about testing suites. I'm digging the concept behind cypress.io
+
+Tonight I'm zonkekd but I think I have a start-up idea in the works.
+
+Day job is giving me grey hairs and grief.
+
+
+**Thoughts**:
+
+Sleep. Early 5:30am wake up experiment is taking toll.
+
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
