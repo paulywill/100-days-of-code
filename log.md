@@ -1267,7 +1267,7 @@ Starting to slip on the challenge.
 
 Lots of solid hours this week working on PRs for FCC and learning about testing suites. I'm digging the concept behind cypress.io
 
-Tonight I'm zonkekd but I think I have a start-up idea in the works.
+Tonight I'm zonked and not counting but I think I have a start-up idea in the works.
 
 Day job is giving me grey hairs and grief.
 
@@ -1277,6 +1277,28 @@ Day job is giving me grey hairs and grief.
 Sleep. Early 5:30am wake up experiment is taking toll.
 
 
+
+### Day 44: October 27, 2018
+**Today's Progress**:
+
+FCC curriculm React, in the front-end certificate portion.
+
+I'm poking about in the new curriculm at FCC and circling back to the previoius certicates I'm almost done.
+
+The "Product Landing Page" looks like a handy project to complete. My portfolio page also needs some fixing up.
+
+
+**Thoughts**:
+
+I went down a few rabbit holes tonight, like I normally do. I'm on a recent kick looking at front-end illustrators using either Illustrator or some kick ass CSS.
+
+As well my tradition to prove a theory is still holding true to some extent. Whenever I'm on a page and click on "Careers" and almost always have a jobs posting. Now more than ever I'm also seeing "Remote Friendly", which excited me to no end. It also unfocuses me because the tech stack often changes from posting to posting.
+
+Do I really want another job or to become a founder?
+
+**Link(s)**
+1. [Impressive CSS Illustration](https://codepen.io/agathaco/pen/bRxYxL)
+2. [Illustrator](https://dribbble.com/shots/5458845-Awkward-Coincidence)
 
 -------------------------------
 
