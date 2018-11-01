@@ -1300,6 +1300,24 @@ Do I really want another job or to become a founder?
 1. [Impressive CSS Illustration](https://codepen.io/agathaco/pen/bRxYxL)
 2. [Illustrator](https://dribbble.com/shots/5458845-Awkward-Coincidence)
 
+
+### Day 45-48: October 28-31, 2018
+**Progress**:
+
+Nothing but lots of FCC QA'ing and helping. Still trying to wrap my mind around the testing suites and setup for the FCC / Travis CI builds.
+
+There was an issue I was trying to help and investigate with and it was gond show trying to figure out all the products and pieces.
+
+**Thoughts**:
+
+Mountains to climb still. Thankfully some of the pieces are actually part of the curriculm. In the meantime I want to dedicate my space cycles to learning Unit Testing and Integration Testing.
+
+**Link(s)**
+1. [FCC testing issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/30709)
+2. [AVA JS - unit testing](https://github.com/avajs/ava)
+3. [Mocha - browser testing](https://mochajs.org/)
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
