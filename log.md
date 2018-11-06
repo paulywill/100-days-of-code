@@ -1318,6 +1318,23 @@ Mountains to climb still. Thankfully some of the pieces are actually part of the
 3. [Mocha - browser testing](https://mochajs.org/)
 
 
+### Day 49-51: November 1-2;5, 2018
+**Progress**:
+
+Thursday and Friday night I spent once again QA'ing PRs for FCC.
+
+The weekend I was completely unplugged and wayyyy up north off the grid visiting some friends. It was a nice little vacation.
+
+Today I struggled through the time change working from home on my usualy tech stuff, but did manage to just finish my hour on the React lessens on FCC.
+
+The super strong IPA beer at dinner was a rather unproductive decision in hind sight.
+
+**Thoughts**:
+
+PyCon Canada 2018 this weekend. I'm going to be taxed Saturday me thinks with another engagement in the evening. The T.O. commute, while not impossible, is often a drag. May consider taking the train.
+
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
