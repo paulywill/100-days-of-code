@@ -1318,7 +1318,7 @@ Mountains to climb still. Thankfully some of the pieces are actually part of the
 3. [Mocha - browser testing](https://mochajs.org/)
 
 
-### Day 49-51: November 1-2;5, 2018
+### Day 49-50: November 2;5, 2018
 **Progress**:
 
 Thursday and Friday night I spent once again QA'ing PRs for FCC.
@@ -1334,7 +1334,25 @@ The super strong IPA beer at dinner was a rather unproductive decision in hind s
 PyCon Canada 2018 this weekend. I'm going to be taxed Saturday me thinks with another engagement in the evening. The T.O. commute, while not impossible, is often a drag. May consider taking the train.
 
 
+### Day 51-53: November 14, 2018
+**Progress**:
 
+Getting heat as I type this from the wife.
+
+But, not withstanding I have been slacking on hitting the challenge mark every day in a row... but I refuse to start over as a family man. I'm going to put my time in but it might have some family time gaps.
+
+Last weekend November 10-11, was PyCon Canada 2018 in Toronto. It was a nice level up and meeting some people and learning what's trending in the dev world relating to Python.
+
+Tonight got back in TDD Goat book.
+
+Tomorrow I will also be back on track.
+
+
+
+
+**Thoughts**:
+**Link(s)**
+1. []()
 -------------------------------
 
 ### Day xx: Month Day, 2018
