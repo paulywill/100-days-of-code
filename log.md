@@ -1348,11 +1348,16 @@ Tonight got back in TDD Goat book.
 Tomorrow I will also be back on track.
 
 
-
+### Day 54: November 15, 2018
+**Today's Progress**:
+Officially finished chapter 5 and 6 of the TDD book. Some of this is familiar. I have a long way to go before mastering TDD and Django!
 
 **Thoughts**:
+Was vvvvvery tempted to not clock in tonight. But on EDM and clocked in. Glad I did!
+
 **Link(s)**
-1. []()
+1. [EDM - Aural Therapy](https://househunters.podbean.com)
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
