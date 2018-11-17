@@ -1358,6 +1358,17 @@ Was vvvvvery tempted to not clock in tonight. But on EDM and clocked in. Glad I 
 **Link(s)**
 1. [EDM - Aural Therapy](https://househunters.podbean.com)
 
+
+### Day 55: November 16, 2018
+**Today's Progress**:
+
+Started chapter 7 of TDD Goat Book... added another FT.
+
+**Thoughts**:
+Quite A.D.D. today with day job WFH.
+Starting to cabin fever and need to work at coffee shop and/or co-working place; and or actual work building that's a pain in the ass to drive to.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
