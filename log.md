@@ -1369,6 +1369,18 @@ Quite A.D.D. today with day job WFH.
 Starting to cabin fever and need to work at coffee shop and/or co-working place; and or actual work building that's a pain in the ass to drive to.
 
 
+### Day 56: November 17, 2018
+**Today's Progress**:
+More TDD Goat book, chapter 7... refactoring and more tests.
+
+Single parent tonight... hope it's not an early morning :S
+
+**Thoughts**:
+
+1. My boss expressed token concern I do late night work *head shake*
+
+2. Mr. Robot is a great but distracting show to watch while coding.
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
