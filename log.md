@@ -1381,6 +1381,19 @@ Single parent tonight... hope it's not an early morning :S
 
 2. Mr. Robot is a great but distracting show to watch while coding.
 
+### Day 57-64: November 18, 2018
+**Progress**:
+Been tackling the TDD Goat book more slowly than anticipated.
+
+Trying to absorb as much about Django and TDD in general.
+
+
+**Thoughts**:
+Finding the discpline and time to code is so difficult, but I am still putting my time in here and there. The bad habit of not updating this log is also getting out of control.
+
+My obsession of looking at Remote DevOps job postings, and trying to grow a beard are also competing for my spare cycles and brain power.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
