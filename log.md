@@ -1394,6 +1394,17 @@ Finding the discpline and time to code is so difficult, but I am still putting m
 My obsession of looking at Remote DevOps job postings, and trying to grow a beard are also competing for my spare cycles and brain power.
 
 
+### Day 65: November 26, 2018
+**Today's Progress**:
+
+Today was certainly a mild coding day. Spent spare cycles setting up two Fedora VMs. One server one desktop. I've decided (even though I love my OSX) need to keep my Linux skills sharp as per a suggestion from a Medium article.
+
+**Thoughts**:
+
+Was a little stir crazy today. Would be nice to work at co-working place tomorrow.
+
+**Link(s)**
+1. [How to become a DevOps...](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 -------------------------------
 
 ### Day xx: Month Day, 2018
