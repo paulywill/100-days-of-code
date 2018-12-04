@@ -1405,6 +1405,50 @@ Was a little stir crazy today. Would be nice to work at co-working place tomorro
 
 **Link(s)**
 1. [How to become a DevOps...](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+
+
+### Day 66: November 27, 2018
+**Today's Progress**:
+- Helped identify security issue in FCC thanks to [tip on Twitter](https://twitter.com/sugarpirate_/status/1067147512065085442).
+
+- Learned some interesting arguments for UNIX [find command and 2>/dev/null](https://medium.com/@codenameyau/step-by-step-breakdown-of-dev-null-a0f516f53158) that found secuirty issue
+
+
+**Thoughts**:
+
+Enjoying the ambience of my co-working home, [TCS in Barrie](https://thecreativespace.ca/), as much as possible before this location closes for good. :(
+
+Will do some more TDD Goat book after day job work.
+
+**Link(s)**
+1. [FCC PR - #34469](https://github.com/freeCodeCamp/freeCodeCamp/pull/34469)
+2. [hackerNews - event-stream](https://thehackernews.com/2018/11/nodejs-event-stream-module.html)
+
+
+### Day 67: November 30, 2018
+**Today's Progress**:
+Finished chapter 7 and chapter 8 today.
+
+Some solid coding at lunch time and this evening.
+
+**Thoughts**:
+This are starting to pick up again this time around with this book.
+
+After finishing it, I'll have to dive deeper into making test from scratch for myself rather than copying code and logic. TDD is certainly not natural but still so pwerful I cannot deny its adoption.
+
+
+### Day 68: December 3, 2018
+**Today's Progress**:
+Working through chapter 9 in the TDD Goat Book.
+
+**Thoughts**:
+I do remember doing this chapter last year and setting up on Linode, this time around trying to setup on AWS.. so far so good.
+
+Curious that TOR is giving my immediate result and yet Chrome and Firefox is taking an extra long time for the DNS to be resolved since I set it up.
+
+**Link(s)**
+1. [Live Server](http://superlists.skillfol.io/)
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
