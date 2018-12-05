@@ -1449,6 +1449,11 @@ Curious that TOR is giving my immediate result and yet Chrome and Firefox is tak
 **Link(s)**
 1. [Live Server](http://superlists.skillfol.io/)
 
+### Day 69: December 4, 2018
+**Today's Progress**:
+More chapter 9 of TDD Goat book.
+Long day.
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
