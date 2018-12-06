@@ -1454,6 +1454,16 @@ Curious that TOR is giving my immediate result and yet Chrome and Firefox is tak
 More chapter 9 of TDD Goat book.
 Long day.
 
+
+### Day 70: December 5, 2018
+**Today's Progress**:
+Finished chapter 9 of TDD Goat book.
+
+**Thoughts**:
+Sick and feeling it.
+
+**Link(s)**
+1. [Staging Server](http://superlists-staging.skillfol.io/)
 -------------------------------
 
 ### Day xx: Month Day, 2018
