@@ -1464,6 +1464,23 @@ Sick and feeling it.
 
 **Link(s)**
 1. [Staging Server](http://superlists-staging.skillfol.io/)
+
+
+### Day 71-72: December 6-7 Day, 2018
+**Progress ?**:
+
+Spent quite a bit of time setting everything up on AWS EC2. Then chown recursively myself out of access (following a security article blindly). Was very close to fixing up the EC2 and retrieving new keys... but then accidentally deleted my EC2 volumes instead of DETACHING them.
+
+
+**Thoughts**:
+
+So easy to make major mistakes on AWS. I should have used SNAPSHOTS and/or learn about some other backups to the volumes for such an event.
+
+It's a good cheap lesson and gives me even more practice going through the setup steps again.
+
+**Link(s)**
+1. [Security article I blame](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
+2. [EC2 Key Pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
 -------------------------------
 
 ### Day xx: Month Day, 2018
