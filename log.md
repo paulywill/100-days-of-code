@@ -1481,6 +1481,21 @@ It's a good cheap lesson and gives me even more practice going through the setup
 **Link(s)**
 1. [Security article I blame](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 2. [EC2 Key Pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
+
+
+### Day 73: December 8, 2018
+**Today's Progress**:
+Finally got back on track and at the end of chapter 10 of TDD Obey the Testing Goat again.
+
+Some interesting gotchas along the way. Setting up Elastic IP with my EC2 instance so I can recycle away and not be affected.
+
+There was a very subtle typo in my service that was preventing things start up clean and I kept getting 502 server error message.
+
+
+**Thoughts**:
+Despite holding a certification in AWS, working experience is something I have to be mindful of. 
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
