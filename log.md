@@ -1496,6 +1496,20 @@ There was a very subtle typo in my service that was preventing things start up c
 Despite holding a certification in AWS, working experience is something I have to be mindful of. 
 
 
+
+### Day 74: December 10, 2018
+**Today's Progress**:
+Tackling chapter 11, automating all the steps from cahpter 9 and 10, in the TDD Obey the Testing Goat book.
+
+Took my time disecting every line this time rather than copying code and running.
+
+**Thoughts**:
+Impressed with the Fabric deployment tool.
+
+Did a rookie mistake, update a dependency on the production server without first checking on my local.
+Now things are breaking and I may have reinstall some things, once again for the sake of security.
+Ahhhh... where's the balance?
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
