@@ -1510,6 +1510,21 @@ Did a rookie mistake, update a dependency on the production server without first
 Now things are breaking and I may have reinstall some things, once again for the sake of security.
 Ahhhh... where's the balance?
 
+
+### Day 75: December 11, 2018
+**Today's Progress**:
+Finished Chapter 11, TDD OTTG book.
+
+**Thoughts**:
+Struggled with some minor unix commands and setting up links.
+Very good practice to follow along these projects and reproduce.
+
+I certainly am going to be using this deployment recipe again with Fabric.
+
+**Link(s)**
+1. [Going to watch/read later - python deployments](https://hynek.me/talks/python-deployments/)
+2. [git-based fabric deploys are awesome](http://dan.bravender.net/2012/5/11/git-based_fabric_deploys_are_awesome.html)
+3. [I WILL ACTUALLY MEMORIZE THIS - 12 Factor App](https://12factor.net/)
 -------------------------------
 
 ### Day xx: Month Day, 2018
