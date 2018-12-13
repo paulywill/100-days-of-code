@@ -1525,6 +1525,21 @@ I certainly am going to be using this deployment recipe again with Fabric.
 1. [Going to watch/read later - python deployments](https://hynek.me/talks/python-deployments/)
 2. [git-based fabric deploys are awesome](http://dan.bravender.net/2012/5/11/git-based_fabric_deploys_are_awesome.html)
 3. [I WILL ACTUALLY MEMORIZE THIS - 12 Factor App](https://12factor.net/)
+
+
+### Day 76: December 12, 2018
+**Today's Progress**:
+Working on chapter 13 of TDD book.
+
+Was successful at separating tests into files.
+
+**Thoughts**:
+Keep looking at remote DevOps jobs.
+I found one that really excited me.
+Still have to level up a few levels (I feel).
+
+I'll get there.
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
