@@ -1540,6 +1540,17 @@ Still have to level up a few levels (I feel).
 
 I'll get there.
 
+
+### Day 77: Decemebr 14, 2018
+**Today's Progress**:
+Finished chapter 12 of TDD book.
+
+**Thoughts**:
+Little hectic today.
+Starbucks for day job, couch for fun nerdery.
+
+Quite a bit of screen time and sitting on my ass for one day.
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
