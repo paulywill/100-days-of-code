@@ -1551,6 +1551,16 @@ Starbucks for day job, couch for fun nerdery.
 
 Quite a bit of screen time and sitting on my ass for one day.
 
+
+### Day 78: December 15, 2018
+**Today's Progress**:
+Working through Chapter 13.
+Very tired for this late night coding session.
+
+**Thoughts**:
+Jerry Maguire was quite the movie. I don't know why I'm thinking through that plot now.
+I miss the old Renée Zellweger. :(
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
