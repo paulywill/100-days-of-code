@@ -1575,9 +1575,16 @@ Ahh the wifi always seems to kick me off after an hour use.
 Chapter 13 still (i think ) of the TDD book.
 
 
+### Day 80: December 19, 2018
+**Today's Progress**:
+Finished chapter 13.
+Digging deeper into the code.
+
 **Thoughts**:
+* Django community, plenty of opportunity to contribute and join organization 
+
 **Link(s)**
-1. []()
+1. [Django Community](https://www.djangoproject.com/community/)
 -------------------------------
 
 ### Day xx: Month Day, 2018
