@@ -1561,6 +1561,23 @@ Very tired for this late night coding session.
 Jerry Maguire was quite the movie. I don't know why I'm thinking through that plot now.
 I miss the old Renée Zellweger. :(
 
+
+### Day 79: December 18, 2018
+**Today's Progress**:
+Well what happened?
+
+I guess although I did some coding the last two days I did not log it...grrrr.
+
+Tonight I did some coding at Timmies'.
+
+Ahh the wifi always seems to kick me off after an hour use.
+
+Chapter 13 still (i think ) of the TDD book.
+
+
+**Thoughts**:
+**Link(s)**
+1. []()
 -------------------------------
 
 ### Day xx: Month Day, 2018
