@@ -1585,6 +1585,16 @@ Digging deeper into the code.
 
 **Link(s)**
 1. [Django Community](https://www.djangoproject.com/community/)
+
+
+### Day 81: December 20, 2018
+**Today's Progress**:
+Chewed a little bit through chapter 14 TDD OTTG book
+
+**Thoughts**:
+Lazy and holiday mode.
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
