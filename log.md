@@ -1595,6 +1595,13 @@ Chewed a little bit through chapter 14 TDD OTTG book
 Lazy and holiday mode.
 
 
+### Day 82: December 21, 2018
+**Today's Progress**:
+Moving through chapter 14 still of TDD OTTG book.
+
+**Thoughts**:
+Q.T. with the S.O. now.
+
 -------------------------------
 
 ### Day xx: Month Day, 2018
