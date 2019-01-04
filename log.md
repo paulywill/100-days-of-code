@@ -1602,6 +1602,41 @@ Moving through chapter 14 still of TDD OTTG book.
 **Thoughts**:
 Q.T. with the S.O. now.
 
+
+### Day 83: December 22, 2018
+**Today's Progress**:
+Almost done chapter 14 of TDD OTTD book, after a solid hour I'm now playing "Bird Box" with Sandra Bullocks in the background on Netflix. So far me like.
+
+**Thoughts**:
+This TDD books is INTENSE! I feel at time I'm just copying code and have to keep searching back through my kindle version to find the reference of an earlier mentioned function or method. A bit of a pain the arse. I'm sure a hardcopy would be a nightmare is some regards.
+
+For my next challenge of taking on "2 Scoops of Django" that's been sitting on my the shelf for awhile now... I'll see if I dig the paper format I can markup like back in college more than Kindle books.
+
+**Link(s)**
+1. [Two Scoops of Django 1.11](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
+2. [Update for Shelf dust](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
+
+
+### Day 84: January 3, 2019
+**Today's Progress**:
+
+Back to a proper coding session.
+
+TDD book chapter 15.
+
+Had to dig deep into what *args, and **kwargs were all about. Found a decent site that steps through with a video. I did have to put on the closed captions because he was a fast talker and first time I've heard the word "tuple" besides just reading it.
+
+**Thoughts**:
+
+I'm certainly bumping up against things I'm such a noob at. Today I spent some time thinging about returning to school part-time maybe full time(?) in 2020, to receive my Undergrad degree ontop of my Diploma. I would have to calculate if the cost and time would be worth it... but it's interesting that Lakehead partnership with Georgian has that option.
+
+Youtube sucked me in and I stumbled on the hardware repair video of my GPU panic issue for my MBP Mid2010. What really impressed me about the content creator, Louis Rossmann, is the workshop setup and his casual walk through. The microscope use is something that never occured to me for electronic repairs. I have occassionally repaired iphones in the past and it's becoming a nightmare with my old eyes.
+
+
+**Link(s)**
+1. [GoDjango - *args and **kwargs](https://godjango.com/105-understanding-args-and-kwargs/)
+2. [My MBP GPU panic hardware repair](https://www.youtube.com/watch?v=DzcgT_fiVTA)
+3. [MBP Mid2010 Software Workaround](https://github.com/julian-poidevin/MBPMid2010_GPUFix)
 -------------------------------
 
 ### Day xx: Month Day, 2018
