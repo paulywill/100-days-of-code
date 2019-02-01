@@ -1637,9 +1637,26 @@ Youtube sucked me in and I stumbled on the hardware repair video of my GPU panic
 1. [GoDjango - *args and **kwargs](https://godjango.com/105-understanding-args-and-kwargs/)
 2. [My MBP GPU panic hardware repair](https://www.youtube.com/watch?v=DzcgT_fiVTA)
 3. [MBP Mid2010 Software Workaround](https://github.com/julian-poidevin/MBPMid2010_GPUFix)
+
+
+### Day 85: February 1, 2019
+**Today's Progress**:
+Finished TDD OTTG(2nd. ed.) chapter 16.
+
+Some very cool JS testing with QUnit!
+
+**Thoughts**:
+Continuing right where I left off, with the "I-don't-give-a-damn-about-consecutive-days-rule-I'm-juggling-shit-and-get-tocoding-when-I-can" 100daycodingchallenge.
+
+**Link(s)**
+1. [Jasmine](https://jasmine.github.io/)
+2. [Testing with Jasmine](http://it-ebooks.directory/book-1449356370.html)
+3. [JS the Good Parts](http://it-ebooks.directory/book-0596517742.html)
+4. [Mochajs](https://mochajs.org/)
+
 -------------------------------
 
-### Day xx: Month Day, 2018
+### Day xx: Month Day, 2019
 **Today's Progress**:
 **Thoughts**:
 **Link(s)**
