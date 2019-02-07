@@ -1654,6 +1654,27 @@ Continuing right where I left off, with the "I-don't-give-a-damn-about-consecuti
 3. [JS the Good Parts](http://it-ebooks.directory/book-0596517742.html)
 4. [Mochajs](https://mochajs.org/)
 
+
+### Day 86: February  7, 2019 (1:00am)
+**Today's Progress**:
+
+Some serious coding in! Yeah!
+
+Working through chapter 18 of TDD OTTG. I was stumped a little on setting up the Google app for email, and thinking maybe the book was getting dated ... HOWEVER... when I finally re-read the warning 
+
+*"If you get an SMTPSenderRefused error message, don’t forget to set the EMAIL_PASSWORD environment variable in the shell that’s running runserver."*
+
+- Percival, Harry J. W.. Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript (Kindle Locations 6843-6844). O'Reilly Media. Kindle Edition. 
+
+That was key! The same damn terminal shell. Gosh!!!
+
+Well I took that answer and threw it up on a dead-end Stackoverflow question that was crickets with some people stumped on the the same problem as me. Meh, if I score a few points that would be neato. To rise to a 1K Stackoverflow overlord is something always to aim for. Maybe I'll be as good as Lyndsey Scott one day! 🤞🤞🤞
+
+
+**Thoughts**:
+**Link(s)**
+1. [Lyndsey Scott](https://www.instagram.com/p/BCv2H-RE9b7/?taken-by=science)
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
