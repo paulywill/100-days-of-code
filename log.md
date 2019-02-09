@@ -1675,6 +1675,22 @@ Well I took that answer and threw it up on a dead-end Stackoverflow question tha
 **Link(s)**
 1. [Lyndsey Scott](https://www.instagram.com/p/BCv2H-RE9b7/?taken-by=science)
 
+
+### Day 87: February 8-9, 2019
+**Today's Progress**:
+Distracting session infront of Netflix chewing through cahpter 18 TDD OTTG.
+
+Watched some Bodyguard (by myself), and Shameless (with the wife).
+
+**Thoughts**:
+Lyndsey Scott was cool enough to reply back to my tweek.
+
+Keep going and put my nerdery in.
+
+
+**Link(s)**
+1. []()
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
