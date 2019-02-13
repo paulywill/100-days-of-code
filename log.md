@@ -1688,8 +1688,16 @@ Lyndsey Scott was cool enough to reply back to my tweek.
 Keep going and put my nerdery in.
 
 
-**Link(s)**
-1. []()
+## Day 88: February 12, 2019
+**Today's Progress**:
+Working through chapter 19 TDD OTTG.
+
+Split the time at the EOD and QT with wifey watching Shameless season 8.
+
+
+**Thoughts**:
+I require some serious Python/Django/TDD nerding up.
+Just when I think I grappled something serious, I'm back to forgetting something that appears simple.
 
 -------------------------------
 
