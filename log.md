@@ -1699,6 +1699,30 @@ Split the time at the EOD and QT with wifey watching Shameless season 8.
 I require some serious Python/Django/TDD nerding up.
 Just when I think I grappled something serious, I'm back to forgetting something that appears simple.
 
+### Day 89-91: February 19-21, 2019
+**Progress**:
+Been nerding it up on a few projects.
+
+Last week I tweaked out my neck/back shoveling snow and combining my son's BD this weekend and Family Day, well it's been some time before I was able to get back into my 100-day challenge.
+
+- Worked more on TDD OTTG 2nd ed., finished up (pretty much) chapter 19... only 7 or so chapters to go!
+- Worked on moderating some more on Freecodecamp.org
+- Actually working on some curriculm projects on FCC as well
+
+**Thoughts**:
+Bouncing around is making my learning process a little broad rather than focused.
+
+Excited and a little nervous about the Chingu Voyage 8 starting up tomorrow and juggling the rest of life around that experience.
+
+I actually forgot I enrolled and now I'm getting really excited things are about to start.
+
+Whatever happens I'm really hoping to work on some new Front End, ie. React... and basically working on a development project remotely. It will certainly be different from my day job.
+
+Tonight I had a nice video talk with a fellow moderator, and superstar, that's working on freecodecamp. I always feel I have so much to catch up on.
+
+**Link(s)**
+1. [Chingu](https://chingu.io/)
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
