@@ -1726,8 +1726,7 @@ Tonight I had a nice video talk with a fellow moderator, and superstar, that's w
 
 ### Day 92-93: February 23, 2019
 **Progress**:
-Yesterday jumped head first into my Chingu solo pre-work assignment. Have approximately [x]9 days and bunch of hours left.
-8 Days and 13 hours.
+Yesterday jumped head first into my Chingu solo pre-work assignment. Have approximately ~~9~~ 8 Days and 13 hours.
 
 I've decided to take on Tier-2 project, using React front-end to build a food drive app to assist people with running a food drive.
 
