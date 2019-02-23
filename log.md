@@ -1731,7 +1731,7 @@ Yesterday jumped head first into my Chingu solo pre-work assignment. Have approx
 
 I've decided to take on Tier-2 project, using React front-end to build a food drive app to assist people with running a food drive.
 
-Will be MVP as a simple form and a graph of the lbs of food they collects. Something similar to this [fundraiser page](http://cfban.convio.net/site/TR?fr_id=1100&pg=entry).
+Will be MVP as a simple form and a graph of the lbs of food they collected. Something similar to the fork graph on this [fundraiser page](http://cfban.convio.net/site/TR?fr_id=1100&pg=entry).
 
 *Details*:
 
