@@ -1723,6 +1723,32 @@ Tonight I had a nice video talk with a fellow moderator, and superstar, that's w
 **Link(s)**
 1. [Chingu](https://chingu.io/)
 
+
+### Day 92-93: February 23, 2019
+**Progress**:
+Yesterday jumped head first into my Chingu solo pre-work assignment. Have approximately 9 days and bunch of hours left.
+
+I've decided to take on Tier-2 project, using React front-end to build a food drive app to assist people with running a food drive.
+
+Will be MVP as a simple form and a graph of the lbs of food they collects.
+
+- Heroku hosted (I'm a little familar with and easy to setup)
+- Travis CI (took me awhile to figure out the authentication)
+- React front-end
+- No idea on the data store portion
+- no idea how redux or anything else works for that matter
+
+**Thoughts**:
+I've been put on a mission with a deadline and I cannot stop thinking about coding!
+
+
+**Link(s)**
+1. [Solo Project Trello Board](https://trello.com/b/MTvszEjs)
+2. [Food Drive steps](https://www.barriefoodbank.org/get-involved/run-a-food-drive/)
+3. [Food Drive - Heroku](https://food-drive.herokuapp.com/)
+4. [Food Drive - Travis CI](https://travis-ci.com/paulywill/food-drive)
+5. [Food Drive - GitHub](https://github.com/paulywill/food-drive)
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
