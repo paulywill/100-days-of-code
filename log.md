@@ -1733,7 +1733,7 @@ I've decided to take on Tier-2 project, using React front-end to build a food dr
 
 Will be MVP as a simple form and a graph of the lbs of food they collected. Something similar to the fork graph on this [fundraiser page](http://cfban.convio.net/site/TR?fr_id=1100&pg=entry).
 
-*Details*:
+**Details**:
 
 - Heroku hosted (I'm a little familar with and easy to setup)
 - Travis CI (took me awhile to figure out the authentication)
