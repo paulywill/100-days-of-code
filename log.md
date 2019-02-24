@@ -1751,6 +1751,22 @@ I've been put on a mission with a deadline and I cannot stop thinking about codi
 4. [Food Drive - Travis CI](https://travis-ci.com/paulywill/food-drive)
 5. [Food Drive - GitHub](https://github.com/paulywill/food-drive)
 
+
+### Day 94: February 24, 2019
+**Today's Progress**:
+
+Stuck on React component elements.
+
+Not sure what to glue everything together let alone use the state and add redux... or fully comprehend what it does.
+
+Time to do some reading and StackOverflow overdrive.
+
+**Thoughts**:
+
+Just when I thought there were some shortcuts I'm back to basics.
+
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
