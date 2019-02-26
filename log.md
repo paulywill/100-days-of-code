@@ -1781,6 +1781,32 @@ It did not hurt to watch the movie Lion tonight. I have NOTHING to complain abou
 
 **Link(s)**
 1. [React Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
+
+
+### Day 96: February 26, 2019
+**Today's Progress**:
+Solo-Project
+============
+React starting to click with me. I'm creating proper components as per that crash course I found yesterday.
+
+Still have to finish watching and learning about routing. But I'm on the right track by removing some html I was hacking in index.html instead of the src directory.
+
+Peer Programming
+================
+Have some peer programming to do this afternoon. I'm a little nervous as my partner and I had some conflicting and busy schedules.
+
+Should be fun though.
+
+**Thoughts**:
+
+My incessant job searching during working hours and disinterest in my organization is a good indication my nerd soul/bucket is in need of filling up. :P
+
+
+
+
+**Link(s)**
+1. [Redirecting in React](https://medium.com/@anneeb/redirecting-in-react-4de5e517354a)
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
