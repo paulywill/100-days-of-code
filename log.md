@@ -1766,7 +1766,21 @@ Time to do some reading and StackOverflow overdrive.
 Just when I thought there were some shortcuts I'm back to basics.
 
 
+### Day 95: February 25, 2019
+**Today's Progress**:
 
+Some more troubleshooting with the my React app. Started to watch a crash course that's really clearing up some basics.
+
+**Thoughts**:
+
+Head space (not the meditation app, although I'm a fan of that as well) ... is a very important thing.
+
+I was bummed out about a poor decision about my future at work and that unfortunately put me a funk that was hard to shake. I had to take a break, do some QT with the family and get back in the zone.
+
+It did not hurt to watch the movie Lion tonight. I have NOTHING to complain about in life.
+
+**Link(s)**
+1. [React Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
 -------------------------------
 
 ### Day xx: Month Day, 2019
