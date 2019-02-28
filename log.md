@@ -1807,6 +1807,46 @@ My incessant job searching during working hours and disinterest in my organizati
 **Link(s)**
 1. [Redirecting in React](https://medium.com/@anneeb/redirecting-in-react-4de5e517354a)
 
+
+### Day 97-98: February 27-28, 2019
+**Progress**:
+
+Finished the codewar problem that my peer-programmer were working on yesterday. It was some ugly code, and after submitting I looked about some other submission and saw a much more elegent solution via ES6 functions. *Mind-blown*
+
+I was struggling with the a few test cases in codewars because I was using [repl.it](repl.it) and it was picking up some hidden chars or something wacky. In the end our code got the job done. 
+
+Also hacked a little more on my solo-project. Some of the piece still need tweaking. I just a few minutes from finishing that React crash course and grabbed enough concepts to finish I believe.
+
+The "hook" or feature I really wanted to focus my energy on was the "food raised graphic".
+So far I have a SVG image of fork-plate-knife; some progress bars available from loading.io; and some half finished CSS and html that's going to line my parts up. 
+
+It's hacky... but I want my MVP to be as convincing and clear as possible.
+
+Will refactor once I understand more about SVG and loading.io libraries.
+
+
+**Thoughts**:
+
+I once saw, without calling attending to the specific tweet, that someone part taking in the #100daysofcode was enraged that someone could use a day within this challenge to "watch a YouTube video". To which I wanted to say, "GFY!".
+
+Tonight alone I learn so much again from YouTube clip... in fact I'm so impressed with the [creator](http://www.traversymedia.com/), I'm probably going to watch more of his content.
+
+In addition during "a break" I also learn about OnionShare... a file sharing tool for the darkweb that journalists can use to exchange files. That was a random stumble on Twitter.
+
+Random bits of nerdery and ninja is built from learning from others, rather than diving right in head first (without checking how deep the water is).
+
+</rant-over>
+
+
+**Link(s)**
+1. [loading.io](https://loading.io/progress/)
+2. [Traversy Media](http://www.traversymedia.com/)
+3. [dont be evil - onionshare](https://onionshare.org/)
+4. [codewars - paulywill](https://www.codewars.com/users/paulywill/completed)
+5. [mirroring cipher - our solution](https://www.codewars.com/kata/reviews/57423abacd764ab93700014f/groups/5c76f24057aa050001892127)
+6. [mirroring cipher - best solution](https://www.codewars.com/kata/reviews/57423abacd764ab93700014f/groups/5752b13223b632508500098e)
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
