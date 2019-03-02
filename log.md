@@ -1847,6 +1847,27 @@ Random bits of nerdery and ninja is built from learning from others, rather than
 6. [mirroring cipher - best solution](https://www.codewars.com/kata/reviews/57423abacd764ab93700014f/groups/5752b13223b632508500098e)
 
 
+### Day 99-100: March 2, 2019
+**Progress**:
+
+Drained.
+
+Still piecing together my solo-project for chingu :/
+
+Been a solid two days in a row and although I have everything "working" to a presentable level.. there's so much functionality missing.
+
+
+**Thoughts**:
+
+I was fixated on styling rather than function... I suppose because I could see immediate results. Still getting a grasp on React and this was quite the ambitious undertaking... if they don't accept me to the next level or if I don't finished... I will be a bit bummed... but I've honestly learned a ton already.
+
+I WILL finish though!
+
+oh... and that's 100 days. Yeah!
+On to 101...
+
+
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
