@@ -1868,6 +1868,26 @@ On to 101...
 
 
 
+### Day R2D2: March Day, 2019
+**Today's Progress**:
+
+Finished solo-pre work project.
+
+
+**Thoughts**:
+
+Drained. Absolutly on the verge of tears and divorce last night.
+Learned that I had speant the whole time working on the wrong project the entire time.
+
+It's been non-stop hacking and coding since yesterday evening getting a whole new project up and running.
+
+Last night trying to get to sleep was brutal.
+
+Thankfully everything is resolved.
+
+**Link(s)**
+1. [paulywill-books](https://paulywill-books.herokuapp.com/)
+
 -------------------------------
 
 ### Day xx: Month Day, 2019
